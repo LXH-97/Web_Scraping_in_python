@@ -19,3 +19,11 @@ while len(links) > 0:
     newArticle = links[random.randint(0, len(links) - 1)].attrs["href"]
     print(newArticle)
     links = getLinks(newArticle)
+
+"""
+空行隔开的两行代码是后者调用前者
+有一段时间的分别阅读，才理解了这段代码
+getLinks打开连接并打印文本
+while循环带开一个个链接
+也就是两段代码会打印出所有的文本
+"""
