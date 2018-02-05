@@ -1,6 +1,8 @@
 # Web_Scraping_in_python
-Half of work is examples in Books "Web Scraping with Python"
-Half of anothers are made of myselve as the study consquences from this book talk in above.
+Some examples writing from the book“Web Scraping with Python"
+Anothers is my consequences on styding by the book.
 
 Hello, World！
 And, Good jobs?
+
+Virtual environment was be made by Centos7's python2.7 version in begin,and i'll add python3.6 verison's venv.
