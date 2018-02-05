@@ -22,5 +22,5 @@ def getLinks(pageUrl):
                 print("----------\n"+newPage)
                 pages.add(newPage)
                 getLinks(newPage)
-                
+
 getLinks("")
