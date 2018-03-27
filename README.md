@@ -1,6 +1,6 @@
 # Web_Scraping_in_python
 Some examples writing from the book“Web Scraping with Python"
-Anothers is my consequences on styding by the book.
+Anothers is my consequences on the book.
 
 Hello, World！
 And, Good jobs?
