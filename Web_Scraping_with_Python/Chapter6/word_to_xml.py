@@ -17,7 +17,7 @@ textStrings = wordObj.findAll("w:t")
 for textElem in textStrings:
     closeTag = ""
     try:
-        style = textElem.parent.previousSibling.find("w:pstyle")
+        style = textElem.parent.previousSibling.find("w:style")
         if style is not None and style["w:val"] == "Title":
             print("<h1>")
             closeTag = "</h1>"
