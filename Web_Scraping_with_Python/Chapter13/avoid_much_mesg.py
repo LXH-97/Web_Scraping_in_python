@@ -37,7 +37,9 @@ class TestWikipedia(unittest.TestCase):
         return False
 
     def getNextLink(self):
-        # 使用第五章介绍的方法返回随机链接
+        pass
+
+# 使用第五章介绍的方法返回随机链接
 
 if __name__ == '__main__':
     unittest.main()
